@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **grzegorzkaw124@gmail.com**
 
-<center>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
@@ -57,6 +56,5 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a>  
 </p>
-</center>
 
 
