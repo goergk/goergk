@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">7th semester Computer Science student, Django & React passionate.</h3>
 
 - 📫 How to reach me: **grzegorzkaw124@gmail.com**
-- 💬 Connect with me: linkedin.com/in/grzegorz-kawecki-66988a226
+- 💬 Connect with me: **[LinkedIn](linkedin.com/in/grzegorz-kawecki-66988a226)**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
