@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Grzegorz</h1>
-<h3 align="center">7th semester Computer Science student, Django & React passionate.</h3>
 
-- 🔭 I’m currently working on **[Flovers](https://github.com/goergk/Flovers)** - my Engineer’s Thesis project.
+<h3 align="center">I develop my frontend skills every day. Occasionally I also touch the backend with the help of django. Photoshop and illustrator for dessert.</h3>
+
 - 📫 How to reach me: **grzegorzkaw124@gmail.com**
 - 💬 Connect with me: **[LinkedIn](https://www.linkedin.com/in/grzegorz-kawecki-66988a226/)**
 
+<p align="center"><img src="https://user-images.githubusercontent.com/79984111/172159670-7be629c0-c134-42e3-accc-ae318062c8d7.gif" alt="working"></p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
@@ -43,14 +42,14 @@ Here are some ideas to get you started:
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"      width="40" height="40"/> 
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/django.svg" alt="django" width="40" height="40"/> 
   </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>   </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
