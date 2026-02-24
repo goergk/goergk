@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">I develop my frontend skills every day. Occasionally I also touch the backend with the help of django. Photoshop and illustrator for dessert.</h3>
 
-- 📫 How to reach me: **grzegorzkaw124@gmail.com**
+- 📫 How to reach me: **gkaweckidev@gmail.com**
 - 💬 Connect with me: **[LinkedIn](https://www.linkedin.com/in/grzegorz-kawecki-66988a226/)**
 
 <p align="center"><img src="https://user-images.githubusercontent.com/79984111/172159670-7be629c0-c134-42e3-accc-ae318062c8d7.gif" alt="working"></p>
