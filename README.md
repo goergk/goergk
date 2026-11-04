@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Grzegorz</h1>
-
-<h3 align="center">I develop my frontend skills every day. Occasionally I also touch the backend with the help of django. Photoshop and illustrator for dessert.</h3>
+<br>
 
 - 📫 How to reach me: **gkaweckidev@gmail.com**
-- 💬 Connect with me: **[LinkedIn]([https://www.linkedin.com/in/grzegorz-kawecki-66988a226/](https://www.linkedin.com/in/grzegorzkawecki/))**
+- 💬 Connect with me: **[LinkedIn](https://www.linkedin.com/in/grzegorzkawecki/)**
 
 
 
